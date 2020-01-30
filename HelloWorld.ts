@@ -8,4 +8,8 @@ class HelloWorld {
   greet() {
     console.log('Lucas Phan');
   }
+
+  showGreet() {
+    console.log('Hello');
+  }
 }
